@@ -7,4 +7,4 @@ while counter < array.length do
 end
 end
 
-Math.sqrt.square_array([1,2,3,9,10,16,25])
+square_array([1,2,3,9,10,16,25])
